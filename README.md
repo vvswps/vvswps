@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvswps&theme=jolly)](#)  <img src="https://media1.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="500" height="300">  
 
-<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=react&hide_border=true" width = 400></p>
+<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=vvswps&theme=react&hide_border=true" width = 400></p>
 </br>
 
 #### Some of my work 🤧
