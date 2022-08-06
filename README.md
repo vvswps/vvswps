@@ -22,23 +22,45 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+<p align="center" width="100%">
+    <img width="35%" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+    &nbsp;
+    &nbsp;
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vvswps&theme=nightowl&show_icons=true">
+</p>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">  [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvswps&theme=nightowl&show_icons=true)](#)  
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvswps&theme=jolly)](#)  <img src="https://media1.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="500" height="300">  
+<p align="center" width="100%">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvswps&theme=jolly">
+    &nbsp;
+    &nbsp;
+    <img width="45%" src="https://media1.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif">
+</p>
 
 <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=vvswps&theme=react&hide_border=true" width = 400></p>
 </br>
 
 #### Some of my work 🤧
 
-[![Profile readme](https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=vvswps)](https://github.com/vvswps/vvswps)  [![React portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=react-portfolio)](https://github.com/vvswps/react-portfolio)
+<p align="center" width="100%">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=vvswps">
+    &nbsp;
+    &nbsp;
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=react-portfolio">
+</p>
 
-[![Manage landing page](https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=fem-manage-landing-page)](https://github.com/vvswps/fem-manage-landing-page)  [![DSA](https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=DSA)](https://github.com/vvswps/DSA)
+
+<p align="center" width="100%">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=fem-manage-landing-page">
+    &nbsp;
+    &nbsp;
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvswps&repo=DSA">
+</p>
 
 </br>
 
