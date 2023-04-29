@@ -67,7 +67,7 @@
 </br>
 
 
- <img src="https://activity-graph.herokuapp.com/graph?username=vvswps&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=vvswps&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/> -->
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=vvswps&color=0e75b6&style=for-the-badge&color=000000">
